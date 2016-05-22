@@ -1,13 +1,16 @@
 ---
 layout: post
-title: This is a Test Post
+title: This is another Test Post
 date: May 21, 2016
-tags: test,post
+tags:
+- tags
+- post
+- test
 excerpt_separator: <!--more-->
 ---
 <img class="featured-image" src="/images/AdobeStock_89915506.jpeg">
 <h2 class="post-h2">{{ page.title}}</h2>
-<p class="post-sub-desc"><span>This is a test post for development purposes</span></p>
+<p class="post-sub-desc"><span>This is another test post for development purposes</span></p>
 <!--more-->
 <p>
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto rem ut laborum recusandae quia vero perspiciatis dolorum magni facilis aspernatur labore repellat, nesciunt quisquam? Voluptates ut sunt recusandae beatae voluptatibus?

@@ -1,1 +1,86 @@
 /* Main CSS File */
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* Main Site Styles */
+div#site {
+    width: 100%;
+    max-width: 901px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.top-bar {
+    width: 100%;
+    max-width: 901px;
+    /*background: antiquewhite;*/
+    overflow: hidden;
+    border-bottom: 1px solid;
+}
+
+.logo {
+	float: left;
+}
+
+nav {
+	float: right;
+}
+
+.wrapper {
+	width: 100%;
+	overflow: hidden;
+}
+
+.col-left-60 {
+	float: left;
+	width: 60%;
+}
+
+.col-right-40 {
+	float: right;
+	width: 40%;
+	
+}
+
+.widget-ad {
+	width: 320px;
+	height: 100px;
+	background: #e3e3e3;
+	text-align: center;
+	border-radius: 1px;
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
+/* Styles for blog posts excerpts */
+.post-excerpt {
+    background: #eee;
+    width: 100%;
+    color: black;
+}
+
+h2.post-h2 {
+	text-align: center;
+}
+
+p.post-sub-desc {
+	text-align: center;
+}
+
+/* Styles for Blog Posts */
+ul.posts {
+	list-style-type: none;
+	padding: 0;
+}
+
+.post-holder > img {
+	width: 100%;
+}
+
+img.featured-image {
+	width: 100%;
+}

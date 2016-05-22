@@ -3,9 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title>{{ site.title }}</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
+<div id="site" class="site">
 	<div class="top-bar">
 		<div class="top-bar-inner">
 			<div class="logo">
@@ -14,22 +15,23 @@
 			<nav>
 				<ul>
 					<li><a href="/" title="Home">Home</a></li>
-					<li><a href="about" title="About Me">About Me</a></li>
-					<li><a href="photos" title="Photography">Photography</a></li>
+					<li><a href="about.html" title="About Me">About Me</a></li>
+					<li><a href="photos.html" title="Photography">Photography</a></li>
 				</ul>
 			</nav>
 		</div>
 	</div>
 	<div class="wrapper">
-		<div class="col-right-60">
+		<div class="col-left-60">
 			{{ content }}
 		</div>
-		<div class="col-left-40">
-			<div class="widget">
+		<div class="col-right-40">
+			<div class="widget-ad">
 				Sidebar Goes here!
 			</div>
 		</div>
 	</div>
+</div>
 	<footer>
 		
 	</footer>

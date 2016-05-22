@@ -3,9 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Ben Sanders - Tech News/Reviews/Daily Life</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
+<div id="site" class="site">
 	<div class="top-bar">
 		<div class="top-bar-inner">
 			<div class="logo">
@@ -14,25 +15,45 @@
 			<nav>
 				<ul>
 					<li><a href="/" title="Home">Home</a></li>
-					<li><a href="about" title="About Me">About Me</a></li>
-					<li><a href="photos" title="Photography">Photography</a></li>
+					<li><a href="about.html" title="About Me">About Me</a></li>
+					<li><a href="photos.html" title="Photography">Photography</a></li>
 				</ul>
 			</nav>
 		</div>
 	</div>
 	<div class="wrapper">
-		<div class="col-right-60">
-			<div id="home">
-	<ul class="posts">
+		<div class="col-left-60">
+				<ul class="posts">
 		
-			<a href="/2016/05/21/this-is-a-test-post.html">
+			<a href="/this-is-another-test-post.html">
 				<div class="post-holder">
-					<img src="images/AdobeStock_89915506.jpeg">
 					<div class="post-excerpt">
-						<h2>This is a Test Post</h2>
-<p>
-	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis saepe consectetur excepturi, assumenda soluta quos reprehenderit, blanditiis sunt dolor quis suscipit recusandae. Minus quasi alias mollitia minima voluptatum, similique in!
-</p>
+						<p><img class="featured-image" src="/images/AdobeStock_89915506.jpeg" /></p>
+<h2 class="post-h2">This is another Test Post</h2>
+<p class="post-sub-desc"><span>This is another test post for development purposes</span></p>
+
+
+					</div>
+				</div>
+			</a>
+		
+			<a href="/this-is-a-test-post.html">
+				<div class="post-holder">
+					<div class="post-excerpt">
+						<p><img class="featured-image" src="/images/AdobeStock_89915506.jpeg" /></p>
+<h2 class="post-h2">This is a Test Post</h2>
+<p class="post-sub-desc"><span>This is a test post for development purposes</span></p>
+
+
+					</div>
+				</div>
+			</a>
+		
+			<a href="/no-featured-image.html">
+				<div class="post-holder">
+					<div class="post-excerpt">
+						<h2 class="post-h2">This Post Has No Image</h2>
+<p class="post-sub-desc"><span>Testing a post with no featured image</span></p>
 
 
 					</div>
@@ -40,14 +61,14 @@
 			</a>
 		
 	</ul>
-</div>
 		</div>
-		<div class="col-left-40">
-			<div class="widget">
+		<div class="col-right-40">
+			<div class="widget-ad">
 				Sidebar Goes here!
 			</div>
 		</div>
 	</div>
+</div>
 	<footer>
 		
 	</footer>

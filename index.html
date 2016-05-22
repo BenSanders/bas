@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-<div id="home">
 	<ul class="posts">
 		{% for post in site.posts %}
 			<a href="{{ post.url }}">
 				<div class="post-holder">
-					<img src="images/AdobeStock_89915506.jpeg">
 					<div class="post-excerpt">
 						{{ post.excerpt }}
 					</div>
@@ -14,4 +12,3 @@ layout: default
 			</a>
 		{% endfor %}
 	</ul>
-</div>
