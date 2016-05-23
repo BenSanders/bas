@@ -4,6 +4,7 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
+    font-family: arial,helvetica,sans-serif;
 }
 
 /* Main Site Styles */
@@ -37,12 +38,12 @@ nav {
 
 .col-left-60 {
 	float: left;
-	width: 60%;
+	width: 62%;
 }
 
 .col-right-40 {
 	float: right;
-	width: 40%;
+	width: 38%;
 	
 }
 
@@ -65,10 +66,16 @@ nav {
 
 h2.post-h2 {
 	text-align: center;
+	margin-bottom: 0;
 }
 
 p.post-sub-desc {
 	text-align: center;
+	margin-top: 0;
+}
+
+.post > p {
+	line-height: 1.75;
 }
 
 /* Styles for Blog Posts */
