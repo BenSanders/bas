@@ -29,6 +29,31 @@ div#site {
 
 nav {
 	float: right;
+	height: 5em;
+}
+
+ul.navul {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+    margin-top: 2em;
+}
+
+li.navlinks {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+li.navlinks > a {
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+}
+
+li.navlinks > a:hover {
+	text-decoration: none;
+	color: black;
+	background-color: #eee;
 }
 
 .wrapper {
@@ -59,9 +84,13 @@ nav {
 
 /* Styles for blog posts excerpts */
 .post-excerpt {
-    background: #eee;
+    background: #fff;
     width: 100%;
     color: black;
+}
+
+.post-excerpt:hover {
+	background: #eee;
 }
 
 h2.post-h2 {
@@ -76,6 +105,11 @@ p.post-sub-desc {
 
 .post > p {
 	line-height: 1.75;
+}
+
+/* Styles for post links on homepage */
+a.post-link {
+	text-decoration: none;
 }
 
 /* Styles for Blog Posts */
