@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 ---
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>Plans for Dragon Con</span></p>
+<p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
 As I have mentioned in the last post I made just a little bit ago I mentioned that I was working on learning how to make WordPress themes. I started actually working on a theme mostly out of boredom but also because I figured that I should have an actual site designed by me as a portfolio. One other thing is that I want to blog more often just as something to do and I love writing.
 

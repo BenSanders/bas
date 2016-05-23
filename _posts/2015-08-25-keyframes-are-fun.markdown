@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 ---
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>Doing some development testing</span></p>
+<p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
 Keyframes in HTML5 is fun. Well, I mean, coding is fun in general especially once you can get into "the zone" but the idea of making your website come alive is fun.
 

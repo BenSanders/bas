@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 <img class="featured-image" src="/images/AdobeStock_89915506.jpeg">
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>My Thoughts On The Matter</span></p>
+<p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
 <p>
 	I first joined Dollar Photo Club back in 2014 shortly before they were bought by Adobe. When I first heard about the parent company, Fotolia, being bought by Adobe I figured something would eventually happen that Adobe would close them down. I maybe didn’t think they would close them down but perhaps brand it to be more Adobe. I especially figured that once they announced Adobe Stock that maybe Dollar Photo Club’s days were numbered but I just kind of put that out of my mind. Until a couple of days ago when it was announced that Dollar Photo Club would be shutting down April 15th 2016.

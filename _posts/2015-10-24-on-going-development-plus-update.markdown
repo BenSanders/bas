@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 ---
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>An Update</span></p>
+<p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
 <p>
 	I have talked before about my site being in development and like many sites, Facebook included, my site is in constant development. While I am trying to figure out what to blog here on my personal blog whether it be app reviews, game reviews, or just things going on in my life. I am also going to be putting out small updates to my site to make it better now that I feel like I understand the Wordpress back-end a little better.

@@ -3,6 +3,11 @@ layout: default
 ---
 	<ul class="posts">
 		{% for post in site.posts %}
+		{% assign currentdate = post.date | date: "%Y" %}
+			{% if currentdate != date %}
+			<h3><li class="post-year">{{ currentdate }}</li></h3>
+    		{% assign date = currentdate %} 
+    		{% endif %}
 			<a class="post-link" href="{{ post.url }}">
 				<div class="post-holder">
 					<div class="post-excerpt">
