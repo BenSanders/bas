@@ -12,7 +12,7 @@ div#site {
     width: 100%;
     max-width: 901px;
     margin: 0 auto;
-    height: 100%;
+    height: 254%;
 }
 
 .post-year {
@@ -34,7 +34,23 @@ div#site {
 	float: left;
 }
 
-nav {
+/*404 navigation*/
+
+nav.fourofournav {
+	text-align: center;
+}
+
+nav.fourofournav > ul {
+	list-style-type: none;
+}
+
+nav.fourofournav > ul > li {
+	display: inline-block;
+}
+
+/*End 404 navigation*/
+
+nav.topnav {
 	float: right;
 	height: 5em;
 }
@@ -73,6 +89,10 @@ li.navlinks > a:hover {
 	text-decoration: none;
 	color: black;
 	background-color: #eee;
+}
+
+li.archive-li {
+    text-align: center;
 }
 
 .wrapper {
@@ -130,9 +150,21 @@ p.post-date {
 	line-height: 1.75;
 }
 
+p.single-post {
+    padding: 10px;
+}
+
 /* Styles for post links on homepage */
 a.post-link {
 	text-decoration: none;
+}
+
+a.archive-link {
+	text-decoration: none;
+}
+
+a.archive-link:hover {
+	text-decoration: underline;
 }
 
 /* Styles for Blog Posts */
@@ -147,6 +179,15 @@ ul.posts {
 
 img.featured-image {
 	width: 100%;
+}
+
+footer {
+	width: 901px;
+	margin: 0 auto;
+	position: relative;
+	bottom: 0;
+	/*background-color: red;*/
+
 }
 
 /* CSS styles for screens below 900px */

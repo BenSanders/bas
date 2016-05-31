@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>{{ site.title }}</title>
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	{% include page-level-ads.html %}
-</head>
-<body>
-<div id="site" class="site">
-	<div class="top-bar">
-		<div class="top-bar-inner">
-			<div class="logo">
-				<h1>Ben Sanders</h1>
-			</div>
-			<nav>
-				<ul class="navul">
-					<li class="navlinks"><a href="/" title="Home">Home</a></li>
-					<li class="navlinks"><a href="about.html" title="About Me">About Me</a></li>
-				</ul>
-			</nav>
-		</div>
-	</div>
+{% include header.html %}
 	<div class="wrapper">
 		<div class="col-left-60">
 			{{ content }}
@@ -32,10 +9,4 @@
 			</div>
 		</div>
 	</div>
-	<footer>
-		
-	</footer>
-</div>
-<script src="/javascript/analytics.js/"></script>
-</body>
-</html>
+{% include footer.html %}

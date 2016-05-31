@@ -13,15 +13,20 @@ excerpt_separator: <!--more-->
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
+<p class="single-post">
 It's been quite a while since I last wrote an update post on my personal blog. In fact it might seem as if I am new to the whole blogging scene when in fact I have been blogging for quite some time now. I have tried many things in the past from using straight HTML &amp; CSS to using what is called<span class="apple-converted-space"> </span><a href="http://jekyllrb.com/" target="_blank">Jekyll<span class="apple-converted-space"> </span></a>for a static blogging platform. I have decided to try using wordpress again and actually blog a lot more often now. 
-
+</p>
+<p class="single-post">
 So what are the plans for this blog I hear you saying?
 No, you aren't asking that?
-
+</p>
+<p class="single-post">
 Well I'll tell you anyway. I will hopefully use this blog as a way to document several personal things from learning to animate to finding a job in my field of web development. Perhaps I will turn this blog into a dev blog of sorts. As you could see from the last two posts that are on this blog I also plan to report on tech news that interest me. I feel as though depending on the topic I can give a personal flare to the news. I absolutely adore talking about technology, animation and vidja (video) games.
-
+</p>
+<p class="single-post">
 Anyway that is all I have to say for now but this will [hopefully] not be the last blog post I make and perhaps I can keep this blog going.
-
+</p>
+<p class="single-post">
 Oh and before I go if you want to see my latest video and animation I made check out the video below. :)
-
+</p>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2rHAszXzvjA" frameborder="0" allowfullscreen></iframe>

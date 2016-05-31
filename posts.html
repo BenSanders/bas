@@ -1,0 +1,18 @@
+---
+layout: page
+title: Archives
+---
+	<ul class="posts">
+		{% for post in site.posts %}
+		{% assign currentdate = post.date | date: "%Y" %}
+			{% if currentdate != date %}
+			<h3><li class="post-year">{{ currentdate }}</li></h3>
+    		{% assign date = currentdate %} 
+    		{% endif %}
+    		<li class="archive-li">
+			<a class="archive-link" href="{{ post.url }}">
+				{{ post.title }}
+			</a>
+			</li>
+		{% endfor %}
+	</ul>

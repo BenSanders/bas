@@ -2,20 +2,24 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<title>{{ site.title }}</title>
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	{% include page-level-ads.html %}
 </head>
 <body>
+<div id="site" class="site">
 	<div class="top-bar">
 		<div class="top-bar-inner">
 			<div class="logo">
 				<h1>Ben Sanders</h1>
 			</div>
-			<nav>
-				<ul>
-					<li><a href="/" title="Home">Home</a></li>
-					<li><a href="about" title="About Me">About Me</a></li>
-					<li><a href="photos" title="Photography">Photography</a></li>
+			<nav class="topnav">
+				<ul class="navul">
+					<li class="navlinks"><a href="/" title="Home">Home</a></li>
+					<li class="navlinks"><a href="about.html" title="About Me">About Me</a>
+					</li>
+					<li class="navlinks"><a href="posts.html" title="Archives">Archives</a></li>
 				</ul>
 			</nav>
 		</div>
