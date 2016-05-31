@@ -7,6 +7,7 @@ tags:
 - creative writing
 - writing
 excerpt_separator: <!--more-->
+permalink: keyframes-are-fun
 ---
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>Doing some development testing</span></p>

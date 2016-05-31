@@ -6,6 +6,7 @@ tags:
 - blog
 - update
 excerpt_separator: <!--more-->
+permalink: on-going-development-plus-update
 ---
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>An Update</span></p>

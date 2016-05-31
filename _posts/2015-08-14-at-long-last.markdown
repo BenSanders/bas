@@ -7,6 +7,7 @@ tags:
 - blog
 - update
 excerpt_separator: <!--more-->
+permalink: at-long-last
 ---
 <img class="featured-image" src="/images/at-long-last-image.png">
 <h2 class="post-h2">{{ page.title}}</h2>

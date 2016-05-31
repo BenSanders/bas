@@ -7,6 +7,7 @@ tags:
 - creative writing
 - writing
 excerpt_separator: <!--more-->
+permalink: writing-excercise
 ---
 <img class="featured-image" src="/images/Dollarphotoclub-Writing.jpg">
 <h2 class="post-h2">{{ page.title}}</h2>

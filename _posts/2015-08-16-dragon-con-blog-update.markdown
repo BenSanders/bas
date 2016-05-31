@@ -7,6 +7,7 @@ tags:
 - update
 - Dragon Con
 excerpt_separator: <!--more-->
+permalink: dragon-con-blog-update
 ---
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>Plans for Dragon Con</span></p>

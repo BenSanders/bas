@@ -7,6 +7,7 @@ tags:
 - blog
 - update
 excerpt_separator: <!--more-->
+permalink: an-update
 ---
 <img class="featured-image" src="/images/an-update.jpg">
 <h2 class="post-h2">{{ page.title}}</h2>

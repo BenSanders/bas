@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 ## Hi, I'm Ben.
 I'm a web developer living in Georgia now with an associate's degree. 
