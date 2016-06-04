@@ -3,7 +3,7 @@ layout: post
 title: Thoughts On Dollar Photo Club Shutting Down
 date: March 15, 2016
 tags:
-- test
+- test,
 - post
 excerpt_separator: <!--more-->
 permalink: thoughts-on-dollar-photo-club-shutting

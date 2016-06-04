@@ -3,7 +3,7 @@ layout: post
 title: On Going Development + Update
 date: Oct 24, 2015
 tags:
-- blog
+- blog,
 - update
 excerpt_separator: <!--more-->
 permalink: on-going-development-plus-update

@@ -3,8 +3,8 @@ layout: post
 title: Dragon Con + Blog Update
 date: August 16, 2015
 tags:
-- blog
-- update
+- blog,
+- update,
 - Dragon Con
 excerpt_separator: <!--more-->
 permalink: dragon-con-blog-update

@@ -4,7 +4,7 @@ title: An Update
 date: May 19, 2015
 desc: Just an update
 tags:
-- blog
+- blog,
 - update
 excerpt_separator: <!--more-->
 permalink: an-update

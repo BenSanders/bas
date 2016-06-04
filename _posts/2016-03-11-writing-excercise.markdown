@@ -3,8 +3,8 @@ layout: post
 title: Writing Exercise
 date: March 11, 2016
 tags:
-- blog
-- creative writing
+- blog,
+- creative writing,
 - writing
 excerpt_separator: <!--more-->
 permalink: writing-excercise

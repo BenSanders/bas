@@ -3,8 +3,8 @@ layout: post
 title: Keyframes Are Fun
 date: August 25, 2015
 tags:
-- blog
-- creative writing
+- blog,
+- creative writing,
 - writing
 excerpt_separator: <!--more-->
 permalink: keyframes-are-fun

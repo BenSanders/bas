@@ -4,7 +4,7 @@ title: At Long Last
 date: August 14, 2015
 desc: Look what I did!
 tags:
-- blog
+- blog,
 - update
 excerpt_separator: <!--more-->
 permalink: at-long-last
