@@ -27,6 +27,7 @@ header#top-bar {
   /* background: antiquewhite; */
   overflow: hidden;
   border-bottom: 1px solid;
+  z-index: 9999;
 }
 
 .top-bar-inner {
@@ -136,10 +137,16 @@ li.archive-li {
 
 }
 
+.topad {
+    /* background-color: #ccc; */
+    margin-top: 1em;
+    width: 100%;
+}
+
 .widget-ad {
-	width: 320px;
-	height: 100px;
-	background: #e3e3e3;
+	width: 300px;
+	height: 250px;
+	/*background: #e3e3e3;*/
 	text-align: center;
 	border-radius: 1px;
 	margin-left: 1em;

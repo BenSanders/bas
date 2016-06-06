@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "104.236.71.217",
+    "username": "root",
+    "password": "aoYYjABA6LBfebo",
+    "port": 22,
+    "remotePath": "/home/sites/do.bensanders.me/html/",
+    "uploadOnSave": false
+}
