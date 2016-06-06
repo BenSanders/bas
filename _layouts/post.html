@@ -1,15 +1,22 @@
----
-layout: default
----
-<div class="post">
-{{ content }}
-</div>
-
-<div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+{% include header.html %}
+	<div class="wrapper">
+		<div class="awesome-link">
+			<span>Awesome Link</span>
+			<span><a href="https://www.patreon.com/thebensanders?ty=h" title="memed" target="_blank">I opened a patreon - check it out! (if ya want)</a></span>
+		</div>
+		<div class="col-full-width">
+			{{ content }}
+		</div>
+    <div id="related">
+      <h2>Related Posts</h2>
+      <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="widget-signup">
+      {% include mailchimp-signup-form.html %}
+    </div>
+	</div>
+{% include footer.html %}
