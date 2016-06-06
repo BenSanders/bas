@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
   have is that of my server.
 </p>
 
-<img class="post-image" src="/images/back-to-jekyll-image-1.png">
+<img class="post-image" alt="Image of Windows Powershell window with jekyll running" src="/images/back-to-jekyll-image-1.png">
 <span class="img-desc">(Image of Windows Powershell window with jekyll running)</span>
 
 <p class="single-post">
