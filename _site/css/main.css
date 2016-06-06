@@ -223,7 +223,10 @@ p.post-date {
 }
 
 p.single-post {
-    padding: 10px;
+  padding-left: 5em;
+  padding-right: 5em;
+  line-height: 1.5;
+  font-weight: bold;
 }
 
 /* Styles for post links on homepage */
@@ -254,9 +257,8 @@ img.featured-image {
 }
 
 img.post-image {
-    width: 100%;
-    margin-top: 1em;
-    margin-bottom: 1em;
+  width: 100%;
+  margin-top: 1em;
 }
 
 footer {
