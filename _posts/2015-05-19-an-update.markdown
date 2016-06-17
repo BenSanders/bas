@@ -14,6 +14,7 @@ permalink: an-update
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
+{% include _share-page.html %}
 <p class="single-post">
 It's been quite a while since I last wrote an update post on my personal blog. In fact it might seem as if I am new to the whole blogging scene when in fact I have been blogging for quite some time now. I have tried many things in the past from using straight HTML &amp; CSS to using what is called<span class="apple-converted-space"> </span><a href="http://jekyllrb.com/" target="_blank">Jekyll<span class="apple-converted-space"> </span></a>for a static blogging platform. I have decided to try using wordpress again and actually blog a lot more often now. 
 </p>

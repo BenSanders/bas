@@ -13,6 +13,7 @@ permalink: keyframes-are-fun
 <p class="post-sub-desc"><span>Doing some development testing</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
+{% include _share-page.html %}
 <p class="single-post">
 Keyframes in HTML5 is fun. Well, I mean, coding is fun in general especially once you can get into "the zone" but the idea of making your website come alive is fun.
 </p>

@@ -14,6 +14,7 @@ permalink: writing-excercise
 <p class="post-sub-desc"><span>My Thoughts On The Matter</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
+{% include _share-page.html %}
 <p class="single-post">
 The plight of any writer is coming up with a topic to write about. Perhaps you will do a bunch of research into a topic you care about so you can give an opinion on said topic. Maybe you want to just tell a story and just want to get better at story telling. Whatever your reasons for writing you will at some point come up with blocks in the writing process that will prevent you from writing. Now you can sit down at a computer with a simple notepad open and just jot down ideas to write about. Perhaps jotting down the ideas and writing short simple sentences for those ideas can help flesh it out into a long blog post. I do like the idea of just writing whatever first pops into my mind though like you might do in an English class.
 </p>

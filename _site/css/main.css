@@ -313,6 +313,43 @@ a:hover {
 	text-decoration: underline;
 }
 
+/* Social Links Styles */
+
+.share-page {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.share-page > a.fb-share {
+  padding: 4px 5px 4px 5px;
+  margin: 0;
+  background-color: #3b5998;
+  color: white;
+  text-decoration: none;
+  margin-right: 3px;
+  /*border: 0.5px solid black;*/
+}
+
+.share-page > a.twitter-share {
+  padding: 4px 5px 4px 5px;
+  margin: 0;
+  background-color: #39f;
+  color: white;
+  text-decoration: none;
+  margin-right: 3px;
+  /*border: 0.5px solid black;*/
+}
+
+.share-page > a.gplus-share {
+  padding: 4px 5px 4px 5px;
+  margin: 0;
+  background-color: #dc4e41;
+  color: white;
+  text-decoration: none;
+  /*border: 0.5px solid black;*/
+}
+
 /* CSS styles for screens below 900px */
 
 @media only screen and (max-width: 901px) {

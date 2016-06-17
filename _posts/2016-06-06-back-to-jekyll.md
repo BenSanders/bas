@@ -13,6 +13,7 @@ excerpt_separator: <!--more-->
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
+{% include _share-page.html %}
 <p class="single-post">
   I change my mind a lot!
 </p>
