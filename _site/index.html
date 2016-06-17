@@ -46,10 +46,6 @@
 <div id="site" class="site">
 
 	<div class="wrapper">
-		<div class="awesome-link">
-			<span>Awesome Link</span>
-			<span><a href="https://www.patreon.com/thebensanders?ty=h" title="memed" target="_blank">I opened a patreon - check it out! (if ya want)</a></span>
-		</div>
 		<div class="col-left-60">
 				<ul class="posts">
 		
@@ -223,9 +219,7 @@
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 			</div>
-			<div class="widget-ad">
 
-			</div>
 		</div>
 	</div>
 </div>
@@ -246,8 +240,21 @@
 	</div> -->
 </footer>
 <!-- <script type="text/javascript" src="https://bensanders.me/javascript/analytics.js/"></script> -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<script src="https://bensanders.me/javascript/topbar.js/"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script type="text/javascript">
+	function init() {
+				$(document).on("scroll",function(){
+					if($(document).scrollTop()>100) {
+						$("header").removeClass("large").addClass("small");
+					} else {
+						$("header").removeClass("small").addClass("large");
+					}
+				});
+	}
+
+	window.onload = init();
+
+</script>
 </body>
 </html>
 

@@ -162,21 +162,48 @@ li.archive-li {
 	margin-top: 1em;
 }
 
-/* Mailing list sign up styles */
-
-form#widget-signup {
-
+.widget-about {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 1em;
 }
 
-input#signup-email {
-
+.picture-about-me {
+  width: 50%;
+  float: left;
 }
 
-input#signup-embedded-email {
+/** LIGHTBOX MARKUP **/
 
+.lightbox {
+	/** Default lightbox to hidden */
+	display: none;
+
+	/** Position and style */
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
 }
 
-/* End of mailing list styles */
+.lightbox img {
+	/** Pad the lightbox image */
+	max-width: 90%;
+	max-height: 80%;
+	margin-top: 10%;
+}
+
+.lightbox:target {
+	/** Remove default browser outline */
+	outline: none;
+
+	/** Unhide lightbox **/
+	display: block;
+}
 
 .widget-signup-h3 {
 	margin-bottom: 0;
@@ -270,6 +297,11 @@ footer {
 
 }
 
+.yt-iframe {
+  width: 100%;
+  height: 506px;
+}
+
 /* Styles for just basic links */
 
 a {
@@ -284,6 +316,16 @@ a:hover {
 /* CSS styles for screens below 900px */
 
 @media only screen and (max-width: 901px) {
+  .yt-iframe {
+    width: 100%;
+    height: 100%;
+  }
+
+  p.single-post {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
 	.col-left-60 {
 		width: 100%;
 	}

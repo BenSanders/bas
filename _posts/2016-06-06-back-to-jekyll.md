@@ -26,8 +26,14 @@ excerpt_separator: <!--more-->
   have is that of my server.
 </p>
 
-<img class="post-image" alt="Image of Windows Powershell window with jekyll running" src="/images/back-to-jekyll-image-1.png">
+<a href="#img1">
+  <img class="post-image" alt="Image of Windows Powershell window with jekyll running" src="/images/back-to-jekyll-image-1.png">
+</a>
 <span class="img-desc">(Image of Windows Powershell window with jekyll running)</span>
+
+<a href="#"  class="lightbox" id="img1">
+  <img alt="Image of Windows Powershell window with jekyll running" src="/images/back-to-jekyll-image-1.png">
+</a>
 
 <p class="single-post">
 There is just something serene of about running commands through a Powershell

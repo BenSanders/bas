@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
-<iframe width="100%" height="506" src="https://www.youtube.com/embed/XW14HO7C1Dg" frameborder="0" allowfullscreen></iframe>
+<iframe class="yt-iframe" src="https://www.youtube.com/embed/XW14HO7C1Dg" frameborder="0" allowfullscreen></iframe>
 <p class="single-post">
 	So another Pokemon Sun & Pokemon Moon trailer just dropped with a load more information. We finally can see what appears to be the whole of the new region. We can see what the pokedex will look like as well as the new professor.
 </p>

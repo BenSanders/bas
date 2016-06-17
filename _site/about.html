@@ -73,7 +73,20 @@ I’ve experienced running my own website with Wordpress and Jekyll</p>
 	</div> -->
 </footer>
 <!-- <script type="text/javascript" src="https://bensanders.me/javascript/analytics.js/"></script> -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<script src="https://bensanders.me/javascript/topbar.js/"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script type="text/javascript">
+	function init() {
+				$(document).on("scroll",function(){
+					if($(document).scrollTop()>100) {
+						$("header").removeClass("large").addClass("small");
+					} else {
+						$("header").removeClass("small").addClass("large");
+					}
+				});
+	}
+
+	window.onload = init();
+
+</script>
 </body>
 </html>
