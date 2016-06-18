@@ -12,7 +12,7 @@ div#site {
     width: 100%;
     max-width: 901px;
     margin: 0 auto;
-    height: 254%;
+    /*height: 254%;*/
 }
 
 .post-year {
@@ -289,12 +289,26 @@ img.post-image {
 }
 
 footer {
-	width: 901px;
-	margin: 0 auto;
-	position: relative;
-	bottom: 0;
-	/*background-color: red;*/
+    width: 100%;
+    margin: 0 auto;
+    bottom: 0;
+    background-color: #ccc;
+    border-top: 1px solid #ccc;
+    position: relative;
+    clear: both;
+    height: 50px;
+}
 
+#footer-inner {
+  width: 901px;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-ul,.footer-li {
+  list-style-type: none;
+  display: inline;
 }
 
 .yt-iframe {
@@ -340,6 +354,8 @@ a:hover {
   margin-right: 3px;
   /*border: 0.5px solid black;*/
 }
+
+
 
 .share-page > a.gplus-share {
   padding: 4px 5px 4px 5px;

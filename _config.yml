@@ -20,3 +20,6 @@ permalink: /:title.html
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-feed
