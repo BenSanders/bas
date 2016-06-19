@@ -9,13 +9,14 @@ tags:
 - awesome,
 - jekyll
 excerpt_separator: <!--more-->
-permalink: adding-search-with-jekyll
+permalink: going-live-with-git
 ---
 <!-- <img class="featured-image" src="/images/logo-2x.png"> -->
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
 <!--more-->
+{% include _share-page.html %}
 <p class="single-post">
 Git is a very cool tool of which I have been using to help me develop this site. As a matter of fact
 you can go and find all the source code for this current site on my <a target="_blank" href="https://github.com/bensanders/">github</a>.
@@ -41,5 +42,6 @@ EVERYTHING in a console window. I love everything about running console commands
 </p>
 <p class="single-post">
 Till Next Time.
+<br/>
 - Ben Sanders
 </p>
