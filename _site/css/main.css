@@ -299,14 +299,14 @@ img.post-image {
 }
 
 footer {
-    width: 100%;
-    margin: 0 auto;
-    bottom: 0;
-    background-color: #ccc;
-    border-top: 1px solid #ccc;
-    position: relative;
-    clear: both;
-    height: 50px;
+  text-align: left;
+  background: #fff;
+  border-top: 1px solid #EEF3F7;
+  width: 100%;
+  margin-top: 0;
+  font-size: 1em;
+  padding: 2em 0 1em;
+  bottom: 0;
 }
 
 #footer-inner {
