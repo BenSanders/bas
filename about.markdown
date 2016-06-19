@@ -20,12 +20,12 @@ If you'd like to contact me I would say that Twitter is the best way to contact 
 
 ### 2016
 
-Moved website from WordPress to Jekyll and switch full time to DigitalOcean for hosting.
+- Moved website from WordPress to Jekyll and switch full time to DigitalOcean for hosting.
 
 ### 2015
-In February of 2015 I experimated with Jekyll for the first time and made a template. 
-But back then I didn't fully grasp the power of Jekyll and was just learning. You can
-check out an old post from [WayBack Machine here](https://web.archive.org/web/20150203175325/http://bensanders.me/2014/01/23/blogging-like-a-hacker-2.html){:target="_blank"}. 
+- In February of 2015 I experimated with Jekyll for the first time and made a template. 
+	But back then I didn't fully grasp the power of Jekyll and was just learning. You can
+	check out an old post from [WayBack Machine here](https://web.archive.org/web/20150203175325/http://bensanders.me/2014/01/23/blogging-like-a-hacker-2.html){:target="_blank"}. 
 
 ### 2010
-Registered BenSanders.me and began this crazy journey.
+- Registered BenSanders.me and began this crazy journey.
