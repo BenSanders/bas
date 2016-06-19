@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="https://www.bensanders.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.bensanders.me/" rel="alternate" type="text/html" /><updated>2016-06-19T12:34:57-04:00</updated><id>https://www.bensanders.me/</id><title>Ben Sanders - Tech News/Reviews/Daily Life</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="https://www.bensanders.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.bensanders.me/" rel="alternate" type="text/html" /><updated>2016-06-19T12:45:13-04:00</updated><id>https://www.bensanders.me/</id><title>Ben Sanders - Tech News/Reviews/Daily Life</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title>Going Live With Git</title><link href="https://www.bensanders.me/going-live-with-git" rel="alternate" type="text/html" title="Going Live With Git" /><published>2016-06-19T00:00:00-04:00</published><updated>2016-06-19T00:00:00-04:00</updated><id>https://www.bensanders.me/going-live-with-git</id><content type="html" xml:base="https://www.bensanders.me/going-live-with-git">&lt;!-- &lt;img class=&quot;featured-image&quot; src=&quot;/images/logo-2x.png&quot;&gt; --&gt;
 &lt;h2 class=&quot;post-h2&quot;&gt;Going Live With Git&lt;/h2&gt;
 &lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;Git is an awesome tool!&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;19 Jun 2016&lt;/span&gt;&lt;/p&gt;
 &lt;!--more--&gt;
+&lt;div class=&quot;share-page&quot;&gt;
+    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+      &lt;span&gt;
+      &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
+      Twitter
+    &lt;/span&gt;
+    &lt;/a&gt;
+    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/going-live-with-git&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/going-live-with-git&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+      &lt;span&gt;
+        &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
+        Facebook
+      &lt;/span&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
 &lt;p class=&quot;single-post&quot;&gt;
 Git is a very cool tool of which I have been using to help me develop this site. As a matter of fact
 you can go and find all the source code for this current site on my &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/bensanders/&quot;&gt;github&lt;/a&gt;.
