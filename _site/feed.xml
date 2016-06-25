@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="https://www.bensanders.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.bensanders.me/" rel="alternate" type="text/html" /><updated>2016-06-25T12:28:47-04:00</updated><id>https://www.bensanders.me/</id><title>Ben Sanders - Tech News/Reviews/Daily Life</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="https://www.bensanders.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.bensanders.me/" rel="alternate" type="text/html" /><updated>2016-06-25T15:28:39-04:00</updated><id>https://www.bensanders.me/</id><title>Ben Sanders - Tech News/Reviews/Daily Life</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title>Going Live With Git</title><link href="https://www.bensanders.me/going-live-with-git" rel="alternate" type="text/html" title="Going Live With Git" /><published>2016-06-19T00:00:00-04:00</published><updated>2016-06-19T00:00:00-04:00</updated><id>https://www.bensanders.me/going-live-with-git</id><content type="html" xml:base="https://www.bensanders.me/going-live-with-git">&lt;!-- &lt;img class=&quot;featured-image&quot; src=&quot;/images/logo-2x.png&quot;&gt; --&gt;
-&lt;h2 class=&quot;post-h2&quot;&gt;Going Live With Git&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;Git is an awesome tool!&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;19 Jun 2016&lt;/span&gt;&lt;/p&gt;
+&lt;header class=&quot;article-header&quot;&gt;
+	&lt;h1 class=&quot;title&quot;&gt;Going Live With Git&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;Git is an awesome tool!&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -19,39 +20,42 @@
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 Git is a very cool tool of which I have been using to help me develop this site. As a matter of fact
 you can go and find all the source code for this current site on my &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/bensanders/&quot;&gt;github&lt;/a&gt;.
 But plugs aside I have installed git on my live server and just tried pushing some changes over to it vs my github. I can
 get used to going live with websites like that I think. haha
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 Regardless it&#39;s very handy as I don&#39;t have to keep up a Filezilla window or try using any of the finiky plugins for Sublime Text or Atom to upload files. Plus I have version control with Git so that if I don&#39;t like changes I made I can revert back. Granted I haven&#39;t figured out
 how to yet but the option should be there somewhere. 
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 So now let me just outline to you all my new work flow process for writing a post with Jekyll and Git.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 1. I open a new file in Sublime Text.
 2. Put all the Jekyll Front-Matter in it.
 3. Write the post and edit it to look all sexy
 4. Push it to the server and SHARE!
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 That&#39;s about it for now and I&#39;m sure I&#39;ll refine all that later. Also this workflow allows me, as a console geek, to do 
 EVERYTHING in a console window. I love everything about running console commands. &amp;lt;3
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 Till Next Time.
 &lt;br /&gt;
 - Ben Sanders
-&lt;/p&gt;</content><category term="blog," /><category term="update," /><category term="awesome," /><category term="jekyll" /><summary>Going Live With Git
-Git is an awesome tool!
-19 Jun 2016</summary></entry><entry><title>Back To Jekyll</title><link href="https://www.bensanders.me/back-to-jekyll.html" rel="alternate" type="text/html" title="Back To Jekyll" /><published>2016-06-06T00:00:00-04:00</published><updated>2016-06-06T00:00:00-04:00</updated><id>https://www.bensanders.me/back-to-jekyll</id><content type="html" xml:base="https://www.bensanders.me/back-to-jekyll.html">&lt;p&gt;&lt;img class=&quot;featured-image&quot; src=&quot;/images/logo-2x.png&quot; alt=&quot;Jekyll Logo&quot; /&gt;&lt;/p&gt;
-&lt;h2 class=&quot;post-h2&quot;&gt;Back To Jekyll&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;Reason why I decided to come back to Jekyll.&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;06 Jun 2016&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;</content><category term="blog," /><category term="update," /><category term="awesome," /><category term="jekyll" /><summary>Going Live With Git
+	Git is an awesome tool!</summary></entry><entry><title>Back To Jekyll</title><link href="https://www.bensanders.me/back-to-jekyll.html" rel="alternate" type="text/html" title="Back To Jekyll" /><published>2016-06-06T00:00:00-04:00</published><updated>2016-06-06T00:00:00-04:00</updated><id>https://www.bensanders.me/back-to-jekyll</id><content type="html" xml:base="https://www.bensanders.me/back-to-jekyll.html">&lt;header class=&quot;article-header&quot;&gt;
+  &lt;img class=&quot;featured-image&quot; src=&quot;/images/logo-2x.png&quot; alt=&quot;Jekyll Logo&quot; /&gt;
+  &lt;h1 class=&quot;title&quot;&gt;Back To Jekyll&lt;/h1&gt;
+  &lt;h3 class=&quot;subtitle&quot;&gt;Reason why I decided to come back to Jekyll.&lt;/h3&gt;
+  &lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;06 Jun 2016&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Back To Jekyll&amp;amp;url=https://www.bensanders.me/back-to-jekyll.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Back To Jekyll&amp;amp;url=https://www.bensanders.me/back-to-jekyll.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -68,10 +72,11 @@ Git is an awesome tool!
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+  &lt;p&gt;
   I change my mind a lot!
-&lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+  &lt;/p&gt;
+  &lt;p&gt;
   There I said it but no in all seriousness though I decided, after much thought,
   to switch back over to Jekyll. The reason being that I felt that Wordpress,
   while a very good platform for bloggers/writers, wasn&#39;t for me anymore. I wanted
@@ -79,28 +84,32 @@ Git is an awesome tool!
   using command line, git, and the like to power my blog. Plus I like the security
   of not having to log into my site via a web based login. Now the only login I
   have is that of my server.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#img1&quot;&gt;
+  &lt;/p&gt;
+&lt;/section&gt;
+&lt;section class=&quot;photoset&quot;&gt;
+  &lt;a href=&quot;#img1&quot;&gt;
   &lt;img class=&quot;post-image&quot; alt=&quot;Image of Windows Powershell window with jekyll running&quot; src=&quot;/images/back-to-jekyll-image-1.png&quot; /&gt;
-&lt;/a&gt;
-&lt;span class=&quot;img-desc&quot;&gt;(Image of Windows Powershell window with jekyll running)&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;lightbox&quot; id=&quot;img1&quot;&gt;
-  &lt;img alt=&quot;Image of Windows Powershell window with jekyll running&quot; src=&quot;/images/back-to-jekyll-image-1.png&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;single-post&quot;&gt;
-There is just something serene of about running commands through a Powershell
-window and uploading everything to a repo. I can also choose how I want the site
-to look without any of the Wordpress code getting the way it just takes me back
-to a time of writing some code and uploading it to a server.
-&lt;/p&gt;</content><category term="blog" /><category term="update" /><summary>Back To Jekyll
-Reason why I decided to come back to Jekyll.
-06 Jun 2016</summary></entry><entry><title>Thoughts on: Pokemon Sun &amp;amp; Moon New Trailer</title><link href="https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html" rel="alternate" type="text/html" title="Thoughts on&amp;#58; Pokemon Sun &amp; Moon New Trailer" /><published>2016-06-02T00:00:00-04:00</published><updated>2016-06-02T00:00:00-04:00</updated><id>https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon</id><content type="html" xml:base="https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html">&lt;p&gt;&lt;img class=&quot;featured-image&quot; src=&quot;/images/alolabig.jpg&quot; alt=&quot;Picture of the Alola Region from Pokemon Sun and Pokemon Moon&quot; /&gt;&lt;/p&gt;
-&lt;h2 class=&quot;post-h2&quot;&gt;Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;A brand new trailer just dropped for Pokemon Sun &amp;amp; Moon and here are my thoughts&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;02 Jun 2016&lt;/span&gt;&lt;/p&gt;
+  &lt;/a&gt;
+  &lt;footer class=&quot;img-desc&quot;&gt;(Image of Windows Powershell window with jekyll running)&lt;/footer&gt;
+  &lt;a href=&quot;#&quot; class=&quot;lightbox&quot; id=&quot;img1&quot;&gt;
+    &lt;img alt=&quot;Image of Windows Powershell window with jekyll running&quot; src=&quot;/images/back-to-jekyll-image-1.png&quot; /&gt;
+  &lt;/a&gt;
+&lt;/section&gt;
+&lt;section&gt;
+  &lt;p&gt;
+    There is just something serene of about running commands through a Powershell
+    window and uploading everything to a repo. I can also choose how I want the site
+    to look without any of the Wordpress code getting the way it just takes me back
+    to a time of writing some code and uploading it to a server.
+  &lt;/p&gt;
+&lt;/section&gt;
+&lt;footer class=&quot;article-footer&quot;&gt;Tags: blogupdate&lt;/footer&gt;</content><category term="blog" /><category term="update" /><summary>Back To Jekyll
+  Reason why I decided to come back to Jekyll.
+  06 Jun 2016</summary></entry><entry><title>Thoughts on: Pokemon Sun &amp;amp; Moon New Trailer</title><link href="https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html" rel="alternate" type="text/html" title="Thoughts on&amp;#58; Pokemon Sun &amp; Moon New Trailer" /><published>2016-06-02T00:00:00-04:00</published><updated>2016-06-02T00:00:00-04:00</updated><id>https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon</id><content type="html" xml:base="https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;img class=&quot;featured-image&quot; src=&quot;/images/alolabig.jpg&quot; alt=&quot;Picture of the Alola Region from Pokemon Sun and Pokemon Moon&quot; /&gt;
+	&lt;h1 class=&quot;title&quot;&gt;Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;A brand new trailer just dropped for Pokemon Sun &amp;amp; Moon and here are my thoughts&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&amp;amp;url=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&amp;amp;url=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -117,27 +126,32 @@ Reason why I decided to come back to Jekyll.
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;iframe class=&quot;yt-iframe&quot; src=&quot;https://www.youtube.com/embed/XW14HO7C1Dg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section class=&quot;photoset&quot;&gt;
+	&lt;iframe class=&quot;yt-iframe&quot; src=&quot;https://www.youtube.com/embed/XW14HO7C1Dg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/section&gt;
+&lt;section&gt;
+	&lt;p&gt;
 	So another Pokemon Sun &amp;amp; Pokemon Moon trailer just dropped with a load more information. We finally can see what appears to be the whole of the new region. We can see what the pokedex will look like as well as the new professor.
-&lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
 	The new professor, Professor Kukui, has a mystery assistent Lillie. Which we&#39;ll just have to wait until the game comes out or more information is leaked/released. As far as the legendary pokemon goes though we&#39;ve got both Solgaleo and Lunala that we now know the names of as well as their typing and at least one move. Solgaleo has the type of Psychic/Steel which is a surprise seeing that everyone thought it would be at least part fire type being Sun related. Lunala though on the other hand is Psychic/Ghost which makes sense for him seeing as he&#39;s Moon related.
-&lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
 	Alola is the region and as pointed out by someone on skype if you were to go to the Sun dial in anistar city you can see 4 islands behind it.
 	So does that mean Pokemon has been hinting towards these new games for a while now? Who knows other then Gamefreak and The Pokemon Company.
-&lt;/p&gt;
-&lt;p&gt;&lt;img class=&quot;post-image&quot; title=&quot;anistar city sun dial&quot; alt=&quot;anistar city sun dial in pokemon xy&quot; src=&quot;/images/anistar.png&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
-	That&#39;s all I have to say on the matter for now but until next time.
-	- Ben
-&lt;/p&gt;</content><category term="pokemon," /><category term="pokemon sun &amp; moon," /><category term="sun," /><category term="moon," /><category term="update," /><summary>Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer
-A brand new trailer just dropped for Pokemon Sun &amp;amp; Moon and here are my thoughts
-02 Jun 2016</summary></entry><entry><title>Thoughts On Dollar Photo Club Shutting Down</title><link href="https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting" rel="alternate" type="text/html" title="Thoughts On Dollar Photo Club Shutting Down" /><published>2016-03-15T00:00:00-04:00</published><updated>2016-03-15T00:00:00-04:00</updated><id>https://www.bensanders.me/thoughts-dollar-photo-club-shutting</id><content type="html" xml:base="https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting">&lt;p&gt;&lt;img class=&quot;featured-image&quot; src=&quot;/images/AdobeStock_89915506_smaller.jpg&quot; alt=&quot;Lady wearing dress coat with palm open and dollar sign hovering over it.&quot; /&gt;&lt;/p&gt;
-&lt;h2 class=&quot;post-h2&quot;&gt;Thoughts On Dollar Photo Club Shutting Down&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;My Thoughts On The Matter&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;15 Mar 2016&lt;/span&gt;&lt;/p&gt;
+	&lt;/p&gt;
+&lt;/section&gt;
+&lt;section class=&quot;photoset&quot;&gt;
+	&lt;img title=&quot;anistar city sun dial&quot; alt=&quot;anistar city sun dial in pokemon xy&quot; src=&quot;/images/anistar.png&quot; /&gt;
+	&lt;footer class=&quot;img-desc&quot;&gt;Anistar City sun dial in Pokemon XY&lt;/footer&gt;
+&lt;/section&gt;
+&lt;footer class=&quot;article-footer&quot;&gt;Tags: pokemon,pokemon sun &amp;amp; moon,sun,moon,update,&lt;/footer&gt;</content><category term="pokemon," /><category term="pokemon sun &amp; moon," /><category term="sun," /><category term="moon," /><category term="update," /><summary>Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer
+	A brand new trailer just dropped for Pokemon Sun &amp;amp; Moon and here are my thoughts</summary></entry><entry><title>Thoughts On Dollar Photo Club Shutting Down</title><link href="https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting" rel="alternate" type="text/html" title="Thoughts On Dollar Photo Club Shutting Down" /><published>2016-03-15T00:00:00-04:00</published><updated>2016-03-15T00:00:00-04:00</updated><id>https://www.bensanders.me/thoughts-dollar-photo-club-shutting</id><content type="html" xml:base="https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;img class=&quot;featured-image&quot; src=&quot;/images/AdobeStock_89915506_smaller.jpg&quot; alt=&quot;Lady wearing dress coat with palm open and dollar sign hovering over it.&quot; /&gt;
+	&lt;h1 class=&quot;title&quot;&gt;Thoughts On Dollar Photo Club Shutting Down&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;/h3&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;15 Mar 2016&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Thoughts On Dollar Photo Club Shutting Down&amp;amp;url=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Thoughts On Dollar Photo Club Shutting Down&amp;amp;url=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -154,23 +168,27 @@ A brand new trailer just dropped for Pokemon Sun &amp;amp; Moon and here are my 
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 	I first joined Dollar Photo Club back in 2014 shortly before they were bought by Adobe. When I first heard about the parent company, Fotolia, being bought by Adobe I figured something would eventually happen that Adobe would close them down. I maybe didn’t think they would close them down but perhaps brand it to be more Adobe. I especially figured that once they announced Adobe Stock that maybe Dollar Photo Club’s days were numbered but I just kind of put that out of my mind. Until a couple of days ago when it was announced that Dollar Photo Club would be shutting down April 15th 2016.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 	So my thoughts on the whole service shutting down are that it’s a sad day to see any website or service shut down but I fully understand why Adobe made the move. Even though it may seem that Adobe is shutting down its competition and raising the price, and maybe they are. It did feel nice to have gotten into Dollar Photo Club before Adobe bought them because they had stopped sign ups. It felt kind of like I was part of, well, a club. I loved the fact that I could pay $10 a month and just let it accrue over years and be able to download images that I had full legal rights to use. With Adobe Stock I can do the same thing and love that it’s built into Adobe apps but now after the first year I will have to pay 3 times as much for the same service.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 	Now Adobe Stock does offer videos as well but I saw where it would cost me $80 to license a video which means that I can’t just go out and get stock video. I would need to spend extra money if I want test video. I mean I might as well go out and record my own videos if I need a stock video or something.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 	So my final thoughts on the service are that I’ll give it a year and if I don’t use it enough to justify the $30 a month for Adobe Stock then I’ll cancel. If I could ask something from Adobe I would ask that maybe figure out a way to include stock video at a lower price for video maybe. That would be nice. I don’t know though maybe another $1 stock image service will come up in the future and give Adobe Stock competition. We’ll just have to wait and see.
-&lt;/p&gt;</content><category term="test," /><category term="post" /><summary>Thoughts On Dollar Photo Club Shutting Down
-My Thoughts On The Matter
-15 Mar 2016</summary></entry><entry><title>Writing Exercise</title><link href="https://www.bensanders.me/writing-excercise" rel="alternate" type="text/html" title="Writing Exercise" /><published>2016-03-11T00:00:00-05:00</published><updated>2016-03-11T00:00:00-05:00</updated><id>https://www.bensanders.me/writing-excercise</id><content type="html" xml:base="https://www.bensanders.me/writing-excercise">&lt;p&gt;&lt;img class=&quot;featured-image&quot; src=&quot;/images/Dollarphotoclub-Writing.jpg&quot; alt=&quot;Children toy blocks that spell out Writer.&quot; /&gt;&lt;/p&gt;
-&lt;h2 class=&quot;post-h2&quot;&gt;Writing Exercise&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;My Thoughts On The Matter&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;11 Mar 2016&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;</content><category term="test," /><category term="post" /><summary>Thoughts On Dollar Photo Club Shutting Down
+	
+	15 Mar 2016</summary></entry><entry><title>Writing Exercise</title><link href="https://www.bensanders.me/writing-excercise" rel="alternate" type="text/html" title="Writing Exercise" /><published>2016-03-11T00:00:00-05:00</published><updated>2016-03-11T00:00:00-05:00</updated><id>https://www.bensanders.me/writing-excercise</id><content type="html" xml:base="https://www.bensanders.me/writing-excercise">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;img class=&quot;featured-image&quot; src=&quot;/images/Dollarphotoclub-Writing.jpg&quot; alt=&quot;Children toy blocks that spell out Writer.&quot; /&gt;
+	&lt;h1 class=&quot;title&quot;&gt;Writing Exercise&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;/h3&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;11 Mar 2016&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Writing Exercise&amp;amp;url=https://www.bensanders.me/writing-excercise&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Writing Exercise&amp;amp;url=https://www.bensanders.me/writing-excercise&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -187,21 +205,28 @@ My Thoughts On The Matter
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 The plight of any writer is coming up with a topic to write about. Perhaps you will do a bunch of research into a topic you care about so you can give an opinion on said topic. Maybe you want to just tell a story and just want to get better at story telling. Whatever your reasons for writing you will at some point come up with blocks in the writing process that will prevent you from writing. Now you can sit down at a computer with a simple notepad open and just jot down ideas to write about. Perhaps jotting down the ideas and writing short simple sentences for those ideas can help flesh it out into a long blog post. I do like the idea of just writing whatever first pops into my mind though like you might do in an English class.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 Now this post might seem out of left field as my last post wasn’t about writing but about website development and I might not have given a single showing of wanting to write. Well, maybe, besides just having a blog. I will say though that I found one YouTuber that kind of made me want to do some more writing. That YouTuber is Nika Harper with whom you can find on all the &lt;a href=&quot;https://twitter.com/NikaHarper?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&quot; target=&quot;_blank&quot;&gt;socials&lt;/a&gt;. I first heard of her from a Co-optional podcast and glad I did. It made me see that maybe I can use Wordpress to share stories and experiences. The first video of hers I watched is just below.
 &lt;/p&gt;
+&lt;/section&gt;
+&lt;section class=&quot;photoset&quot;&gt;
 &lt;iframe class=&quot;yt-iframe&quot; src=&quot;https://www.youtube.com/embed/Gv84pGz8yI4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;/section&gt;
+&lt;section&gt;
+&lt;p&gt;
 So in the near future I plan to start posting a lot more often and perhaps start posting short stories and poems. I will find my own place in this blogosphere.
-&lt;/p&gt;</content><category term="blog," /><category term="creative writing," /><category term="writing" /><summary>Writing Exercise
-My Thoughts On The Matter
-11 Mar 2016</summary></entry><entry><title>On Going Development + Update</title><link href="https://www.bensanders.me/on-going-development-plus-update" rel="alternate" type="text/html" title="On Going Development + Update" /><published>2015-10-24T00:00:00-04:00</published><updated>2015-10-24T00:00:00-04:00</updated><id>https://www.bensanders.me/on-going-development-plus-update</id><content type="html" xml:base="https://www.bensanders.me/on-going-development-plus-update">&lt;h2 class=&quot;post-h2&quot;&gt;On Going Development + Update&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;An Update&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;24 Oct 2015&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;</content><category term="blog," /><category term="creative writing," /><category term="writing" /><summary>Writing Exercise
+	
+	11 Mar 2016</summary></entry><entry><title>On Going Development + Update</title><link href="https://www.bensanders.me/on-going-development-plus-update" rel="alternate" type="text/html" title="On Going Development + Update" /><published>2015-10-24T00:00:00-04:00</published><updated>2015-10-24T00:00:00-04:00</updated><id>https://www.bensanders.me/on-going-development-plus-update</id><content type="html" xml:base="https://www.bensanders.me/on-going-development-plus-update">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;h1 class=&quot;title&quot;&gt;On Going Development + Update&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;An Update&lt;/h3&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;24 Oct 2015&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=On Going Development + Update&amp;amp;url=https://www.bensanders.me/on-going-development-plus-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=On Going Development + Update&amp;amp;url=https://www.bensanders.me/on-going-development-plus-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -218,20 +243,24 @@ My Thoughts On The Matter
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 	I have talked before about my site being in development and like many sites, Facebook included, my site is in constant development. While I am trying to figure out what to blog here on my personal blog whether it be app reviews, game reviews, or just things going on in my life. I am also going to be putting out small updates to my site to make it better now that I feel like I understand the Wordpress back-end a little better.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 	I was thinking that if I blogged about technology or stuff I care about that maybe I can give my opinion and make some kind of a difference in the world. I will also put up vlogs and whatever other videos I make for YouTube on my site as I have designed this current design to better fit videos.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 	Anyway that&#39;s about it for this short update.
 	Thank you for reading. :)
-&lt;/p&gt;</content><category term="blog," /><category term="update" /><summary>On Going Development + Update
-An Update
-24 Oct 2015</summary></entry><entry><title>Keyframes Are Fun</title><link href="https://www.bensanders.me/keyframes-are-fun" rel="alternate" type="text/html" title="Keyframes Are Fun" /><published>2015-08-25T00:00:00-04:00</published><updated>2015-08-25T00:00:00-04:00</updated><id>https://www.bensanders.me/keyframes-are-fun</id><content type="html" xml:base="https://www.bensanders.me/keyframes-are-fun">&lt;h2 class=&quot;post-h2&quot;&gt;Keyframes Are Fun&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;Doing some development testing&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;25 Aug 2015&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;</content><category term="blog," /><category term="update" /><summary>On Going Development + Update
+	An Update
+	24 Oct 2015</summary></entry><entry><title>Keyframes Are Fun</title><link href="https://www.bensanders.me/keyframes-are-fun" rel="alternate" type="text/html" title="Keyframes Are Fun" /><published>2015-08-25T00:00:00-04:00</published><updated>2015-08-25T00:00:00-04:00</updated><id>https://www.bensanders.me/keyframes-are-fun</id><content type="html" xml:base="https://www.bensanders.me/keyframes-are-fun">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;h1 class=&quot;title&quot;&gt;Keyframes Are Fun&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;/h3&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;25 Aug 2015&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Keyframes Are Fun&amp;amp;url=https://www.bensanders.me/keyframes-are-fun&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Keyframes Are Fun&amp;amp;url=https://www.bensanders.me/keyframes-are-fun&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -248,10 +277,11 @@ An Update
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 Keyframes in HTML5 is fun. Well, I mean, coding is fun in general especially once you can get into &quot;the zone&quot; but the idea of making your website come alive is fun.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;c&quot;&gt;/* Key Frames */&lt;/span&gt;
 
@@ -261,14 +291,17 @@ Keyframes in HTML5 is fun. Well, I mean, coding is fun in general especially onc
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 I mean all I have to do is insert something like the above into my style.css document and it will make the class or id fade in on-load.
 Anyway that is just a quick update to what I&#39;ve been doing with this site lately - I&#39;ll keep you all posted as I design the site some more.
-&lt;/p&gt;</content><category term="blog," /><category term="creative writing," /><category term="writing" /><summary>Keyframes Are Fun
-Doing some development testing
-25 Aug 2015</summary></entry><entry><title>Dragon Con + Blog Update</title><link href="https://www.bensanders.me/dragon-con-blog-update" rel="alternate" type="text/html" title="Dragon Con + Blog Update" /><published>2015-08-16T00:00:00-04:00</published><updated>2015-08-16T00:00:00-04:00</updated><id>https://www.bensanders.me/dragon-con-blog-update</id><content type="html" xml:base="https://www.bensanders.me/dragon-con-blog-update">&lt;h2 class=&quot;post-h2&quot;&gt;Dragon Con + Blog Update&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;Plans for Dragon Con&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;16 Aug 2015&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;</content><category term="blog," /><category term="creative writing," /><category term="writing" /><summary>Keyframes Are Fun
+	
+	25 Aug 2015</summary></entry><entry><title>Dragon Con + Blog Update</title><link href="https://www.bensanders.me/dragon-con-blog-update" rel="alternate" type="text/html" title="Dragon Con + Blog Update" /><published>2015-08-16T00:00:00-04:00</published><updated>2015-08-16T00:00:00-04:00</updated><id>https://www.bensanders.me/dragon-con-blog-update</id><content type="html" xml:base="https://www.bensanders.me/dragon-con-blog-update">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;h1 class=&quot;title&quot;&gt;Dragon Con + Blog Update&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;Plans for Dragon Con&lt;/h3&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;16 Aug 2015&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Dragon Con + Blog Update&amp;amp;url=https://www.bensanders.me/dragon-con-blog-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Dragon Con + Blog Update&amp;amp;url=https://www.bensanders.me/dragon-con-blog-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -285,20 +318,24 @@ Doing some development testing
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 As I have mentioned in the last post I made just a little bit ago I mentioned that I was working on learning how to make WordPress themes. I started actually working on a theme mostly out of boredom but also because I figured that I should have an actual site designed by me as a portfolio. One other thing is that I want to blog more often just as something to do and I love writing.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 As far as the design of my site goes I will say that once I figure out the back-end and get all that sort of thing sorted out I will actually make a better design. Probably some kind of minimalist design; All-in-all I have lots planned for my site in the future and will hopefully start promoting it more often.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 One last final note for this post is that I PLAN to be at Dragon Con in &lt;a class=&quot;zem_slink&quot; title=&quot;Atlanta&quot; href=&quot;http://www.atlantaga.gov/&quot; target=&quot;_blank&quot; rel=&quot;homepage&quot;&gt;Atlanta&lt;/a&gt; for the Co-Optional Podcast panel. So if you will be there perhaps I’ll see ya there! :D
-&lt;/p&gt;</content><category term="blog," /><category term="update," /><category term="Dragon Con" /><summary>Dragon Con + Blog Update
-Plans for Dragon Con
-16 Aug 2015</summary></entry><entry><title>At Long Last</title><link href="https://www.bensanders.me/at-long-last" rel="alternate" type="text/html" title="At Long Last" /><published>2015-08-14T00:00:00-04:00</published><updated>2015-08-14T00:00:00-04:00</updated><id>https://www.bensanders.me/at-long-last</id><content type="html" xml:base="https://www.bensanders.me/at-long-last">&lt;p&gt;&lt;img class=&quot;featured-image&quot; src=&quot;/images/at-long-last-image.png&quot; alt=&quot;Screenshot of a webpage I desgiend that says Ting Review&quot; /&gt;&lt;/p&gt;
-&lt;h2 class=&quot;post-h2&quot;&gt;At Long Last&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;Look what I did!&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;14 Aug 2015&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;</content><category term="blog," /><category term="update," /><category term="Dragon Con" /><summary>Dragon Con + Blog Update
+	Plans for Dragon Con
+	16 Aug 2015</summary></entry><entry><title>At Long Last</title><link href="https://www.bensanders.me/at-long-last" rel="alternate" type="text/html" title="At Long Last" /><published>2015-08-14T00:00:00-04:00</published><updated>2015-08-14T00:00:00-04:00</updated><id>https://www.bensanders.me/at-long-last</id><content type="html" xml:base="https://www.bensanders.me/at-long-last">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;img class=&quot;featured-image&quot; src=&quot;/images/at-long-last-image.png&quot; alt=&quot;Screenshot of a webpage I desgiend that says Ting Review&quot; /&gt;
+	&lt;h1 class=&quot;title&quot;&gt;At Long Last&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;Look what I did!&lt;/h3&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;14 Aug 2015&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=At Long Last&amp;amp;url=https://www.bensanders.me/at-long-last&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=At Long Last&amp;amp;url=https://www.bensanders.me/at-long-last&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -315,18 +352,22 @@ Plans for Dragon Con
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 A little while ago I made the decision to switch back over to WordPress and stick with it this time. I said to myself that I was going to make my own theme and learn the WordPress back end and things would be fantastic. Well fast forward to today and I am just getting to making my own theme, finally. I suppose it&#39;s better late than never and the site won&#39;t look as good until I figure out the back end and can get a design I can stick with for a while. I have a few other plans for the site as well which include turning it into a portfolio for web design and photography work. I will also keep putting up reviews for products I have used and maybe a little tech news thrown in the mix. So stay tuned for more! :)
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 Until Next Time.
 Ben Sanders
-&lt;/p&gt;</content><category term="blog," /><category term="update" /><summary>At Long Last
-Look what I did!
-14 Aug 2015</summary></entry><entry><title>An Update</title><link href="https://www.bensanders.me/an-update" rel="alternate" type="text/html" title="An Update" /><published>2015-05-19T00:00:00-04:00</published><updated>2015-05-19T00:00:00-04:00</updated><id>https://www.bensanders.me/an-update</id><content type="html" xml:base="https://www.bensanders.me/an-update">&lt;p&gt;&lt;img class=&quot;featured-image&quot; src=&quot;/images/an-update.jpg&quot; alt=&quot;A stock image with the word Update and a gear logo&quot; /&gt;&lt;/p&gt;
-&lt;h2 class=&quot;post-h2&quot;&gt;An Update&lt;/h2&gt;
-&lt;p class=&quot;post-sub-desc&quot;&gt;&lt;span&gt;Just an update&lt;/span&gt;&lt;/p&gt;
-&lt;p class=&quot;post-date&quot;&gt;&lt;span&gt;19 May 2015&lt;/span&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/section&gt;</content><category term="blog," /><category term="update" /><summary>At Long Last
+	Look what I did!
+	14 Aug 2015</summary></entry><entry><title>An Update</title><link href="https://www.bensanders.me/an-update" rel="alternate" type="text/html" title="An Update" /><published>2015-05-19T00:00:00-04:00</published><updated>2015-05-19T00:00:00-04:00</updated><id>https://www.bensanders.me/an-update</id><content type="html" xml:base="https://www.bensanders.me/an-update">&lt;header class=&quot;article-header&quot;&gt;
+	&lt;img class=&quot;featured-image&quot; src=&quot;/images/an-update.jpg&quot; alt=&quot;A stock image with the word Update and a gear logo&quot; /&gt;
+	&lt;h1 class=&quot;title&quot;&gt;An Update&lt;/h1&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;Just an update&lt;/h3&gt;
+	&lt;h3 class=&quot;subtitle&quot;&gt;&lt;span&gt;19 May 2015&lt;/span&gt;&lt;/h3&gt;
+&lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
     &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=An Update&amp;amp;url=https://www.bensanders.me/an-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=An Update&amp;amp;url=https://www.bensanders.me/an-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
@@ -343,22 +384,26 @@ Look what I did!
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;section&gt;
+&lt;p&gt;
 It&#39;s been quite a while since I last wrote an update post on my personal blog. In fact it might seem as if I am new to the whole blogging scene when in fact I have been blogging for quite some time now. I have tried many things in the past from using straight HTML &amp;amp; CSS to using what is called&lt;span class=&quot;apple-converted-space&quot;&gt; &lt;/span&gt;&lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;span class=&quot;apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/a&gt;for a static blogging platform. I have decided to try using wordpress again and actually blog a lot more often now. 
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 So what are the plans for this blog I hear you saying?
 No, you aren&#39;t asking that?
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 Well I&#39;ll tell you anyway. I will hopefully use this blog as a way to document several personal things from learning to animate to finding a job in my field of web development. Perhaps I will turn this blog into a dev blog of sorts. As you could see from the last two posts that are on this blog I also plan to report on tech news that interest me. I feel as though depending on the topic I can give a personal flare to the news. I absolutely adore talking about technology, animation and vidja (video) games.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 Anyway that is all I have to say for now but this will [hopefully] not be the last blog post I make and perhaps I can keep this blog going.
 &lt;/p&gt;
-&lt;p class=&quot;single-post&quot;&gt;
+&lt;p&gt;
 Oh and before I go if you want to see my latest video and animation I made check out the video below. :)
 &lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/watch?v=2rHAszXzvjA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><category term="blog," /><category term="update" /><summary>An Update
-Just an update
-19 May 2015</summary></entry></feed>
+&lt;/section&gt;
+&lt;section class=&quot;photoset&quot;&gt;
+&lt;iframe class=&quot;yt-iframe&quot; src=&quot;https://www.youtube.com/watch?v=2rHAszXzvjA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/section&gt;</content><category term="blog," /><category term="update" /><summary>An Update
+	Just an update
+	19 May 2015</summary></entry></feed>

@@ -256,6 +256,63 @@ p.single-post {
   font-weight: bold;
 }
 
+/* New BenSanders.me Posts styles */
+article.post {
+    width: 100%;
+    max-width: 901px;
+    padding-top: 1em;
+    margin: 0 auto;
+}
+
+header.article-header {
+    text-align: center;
+    font-weight: 600;
+    font-family: arial;
+    /*font-size: xx-large;*/
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  font-size: 1rem;
+  line-height: 1.4;
+  font-weight: 400;
+  color: #96a1ad;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+section {
+    width: 38em;
+    margin: 15px auto;
+    line-height: 1.5;
+}
+
+.photoset {
+    width: 92%;
+    margin-bottom: 2rem;
+}
+
+section.photoset > img {
+  width: 100%;
+}
+
+footer.article-footer {
+    text-align: center;
+}
+
+@media only screen and (max-width: 375px) {
+  section {
+      width: 88%;
+      margin: 15px auto;
+  }
+}
+
+/* End of New BenSanders.me Posts styles */
+
 /* Styles for post links on homepage */
 a.post-link {
 	text-decoration: none;
@@ -288,11 +345,11 @@ img.post-image {
   margin-top: 1em;
 }
 
-footer {
+/* Main Site Footer */
+.site-footer {
     width: 100%;
     margin: 0 auto;
     bottom: 0;
-    background-color: #ccc;
     border-top: 1px solid #ccc;
     position: relative;
     clear: both;
