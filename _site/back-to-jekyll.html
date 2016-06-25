@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+	<head>
 	<meta charset="UTF-8">
 	<title>Back To Jekyll</title>
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -15,20 +15,9 @@
     enable_page_level_ads: true
   });
 </script>
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-78723313-1', 'auto');
-	  ga('send', 'pageview');
-
-	</script>
 </head>
-<body>
-<progress value="0"></progress>
-<header id="top-bar" class="large">
+		<body>
+			<header id="top-bar" class="large">
 	<div class="top-bar-inner">
 		<div class="logo">
 			<h1>Ben Sanders</h1>
@@ -44,9 +33,11 @@
 
 	</div>
 </header>
-<div id="site" class="site">
 
-	<div class="wrapper">
+				<div id="site" class="site">
+					<div class="wrapper">
+						<div class="col-full-width">
+								<div class="wrapper">
 		<div class="col-full-width">
 			<p><img class="featured-image" src="/images/logo-2x.png" /></p>
 <h2 class="post-h2">Back To Jekyll</h2>
@@ -100,8 +91,12 @@ to a time of writing some code and uploading it to a server.
 		</div>
     
 	</div>
-</div>
-<footer>
+
+
+						</div>
+					</div>
+				</div><!-- Last <div> for site class -->
+				<footer>
 	<div id="footer-inner">
 		<div class="footer-left">
 			<ul class="footer-ul">
@@ -129,21 +124,8 @@ to a time of writing some code and uploading it to a server.
 </footer>
 <!-- <script type="text/javascript" src="https://bensanders.me/javascript/analytics.js/"></script> -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<script src="/javascript/progressbar.js"></script>
-<script type="text/javascript">
-	function init() {
-				$(document).on("scroll",function(){
-					if($(document).scrollTop()>100) {
-						$("header").removeClass("large").addClass("small");
-					} else {
-						$("header").removeClass("small").addClass("large");
-					}
-				});
-	}
+<script src="/javascript/analytics.js"></script>
+<script src="/javascript/functions.js"></script>
 
-	window.onload = init();
-
-</script>
-</body>
+		</body>
 </html>
-

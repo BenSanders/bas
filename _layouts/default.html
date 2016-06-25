@@ -1,13 +1,21 @@
-{% include header.html %}
-	<div class="wrapper">
-		<div class="col-left-60">
-			{{ content }}
-		</div>
-		<div class="col-right-40">
-			<div class="widget-signup">
-				{% include mailchimp-signup-form.html %}
-			</div>
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+		<body>
+			{% include header.html %}
+				<div id="site" class="site">
+					<div class="wrapper">
+						<div class="col-left-60">
+							{{ content }}
+						</div>
+						<div class="col-right-40">
+							<div class="widget-signup">
+								{% include mailchimp-signup-form.html %}
+							</div>
 
-		</div>
-	</div>
-{% include footer.html %}
+						</div>
+					</div>
+				</div><!-- Last <div> for site class -->
+				{% include footer.html %}
+		</body>
+</html>

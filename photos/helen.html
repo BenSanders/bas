@@ -1,0 +1,9 @@
+---
+title: Two Weeks in Helen
+permalink: /photos/helen/two-weeks-in-helen/
+layout: page
+---
+
+{% for photo in site.photos | where: "trip","Helen" %}
+<img src="{{ photo.src }}">
+{% endfor %}
