@@ -9,7 +9,7 @@ tags:
 excerpt_separator: <!--more-->
 permalink: an-update
 ---
-<img class="featured-image" src="/images/an-update.jpg">
+<img class="featured-image" src="/images/an-update.jpg" alt="A stock image with the word Update and a gear logo">
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>

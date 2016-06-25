@@ -9,7 +9,7 @@ tags:
 excerpt_separator: <!--more-->
 permalink: at-long-last
 ---
-<img class="featured-image" src="/images/at-long-last-image.png">
+<img class="featured-image" src="/images/at-long-last-image.png" alt="Screenshot of a webpage I desgiend that says Ting Review">
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>

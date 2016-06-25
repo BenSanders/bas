@@ -13,7 +13,7 @@ tags:
 		{% for post in site.posts %}
 		{% assign currentdate = post.date | date: "%Y" %}
 			{% if currentdate != date %}
-			<h3><li class="post-year">{{ currentdate }}</li></h3>
+			<li class="post-year"><h3>{{ currentdate }}</h3></li>
     		{% assign date = currentdate %} 
     		{% endif %}
     		<li>

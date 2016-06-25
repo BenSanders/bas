@@ -8,7 +8,7 @@ tags:
 - update
 excerpt_separator: <!--more-->
 ---
-<img class="featured-image" src="/images/logo-2x.png">
+<img class="featured-image" src="/images/logo-2x.png" alt="Jekyll Logo">
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>

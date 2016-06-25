@@ -9,7 +9,7 @@ tags:
 excerpt_separator: <!--more-->
 permalink: writing-excercise
 ---
-<img class="featured-image" src="/images/Dollarphotoclub-Writing.jpg">
+<img class="featured-image" src="/images/Dollarphotoclub-Writing.jpg" alt="Children toy blocks that spell out Writer.">
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>My Thoughts On The Matter</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>
