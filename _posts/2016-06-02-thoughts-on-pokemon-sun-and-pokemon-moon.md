@@ -11,7 +11,7 @@ tags:
 - update,
 excerpt_separator: <!--more-->
 ---
-<img class="featured-image" src="/images/alolabig.jpg">
+<img class="featured-image" src="/images/alolabig.jpg" alt="Picture of the Alola Region from Pokemon Sun and Pokemon Moon">
 <h2 class="post-h2">{{ page.title}}</h2>
 <p class="post-sub-desc"><span>{{ page.desc }}</span></p>
 <p class="post-date"><span>{{ page.date | date_to_string }}</span></p>

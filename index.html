@@ -16,6 +16,7 @@ tags:
 			<h3><li class="post-year">{{ currentdate }}</li></h3>
     		{% assign date = currentdate %} 
     		{% endif %}
+    		<li>
 			<a class="post-link" href="{{ post.url }}">
 				<div class="post-holder">
 					<div class="post-excerpt">
@@ -23,5 +24,6 @@ tags:
 					</div>
 				</div>
 			</a>
+			</li>
 		{% endfor %}
 	</ul>
