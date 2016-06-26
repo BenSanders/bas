@@ -1,9 +1,10 @@
 ---
 title: Two Weeks in Helen
 permalink: /photos/helen/two-weeks-in-helen/
-layout: page
+layout: photos
+custom_css: photospage
 ---
 
 {% for photo in site.photos | where: "trip","Helen" %}
-<img src="{{ photo.src }}">
+<img src="{{ photo.src }}" alt="{{ photo.alt }}">
 {% endfor %}

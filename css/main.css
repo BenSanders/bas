@@ -94,19 +94,40 @@ ul.navul li.icon {display: none;}
 
 li.navlinks {
 	display: inline-block;
-	margin-right: 1em;
 }
 
 li.navlinks > a {
 	text-decoration: none;
-	color: black;
+	color: #a6a8ab;
 	padding: 10px;
+  position: relative;
 }
 
 li.navlinks > a:hover {
-	text-decoration: none;
-	color: black;
-	background-color: #eee;
+  text-decoration: none;
+  /*background-color: #eee;*/
+}
+
+/* Styles for animated underlines for links */
+li.navlinks > a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #a6a8ab;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition:  all 0.3s ease-in-out 0s;
+}
+
+li.navlinks > a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
 }
 
 li.archive-li {
@@ -121,9 +142,9 @@ li.archive-li {
 .awesome-link {
 	text-align: center;
 	background-color: #eef3f6;
-    border: 1px solid #6ca6cd;
-    color: #212121;
-    margin-top: 1em;
+  border: 1px solid #6ca6cd;
+  color: #212121;
+  margin-top: 1em;
 }
 
 .col-left-60 {
@@ -296,6 +317,12 @@ section {
     margin-bottom: 2rem;
 }
 
+/* Photos Page Styles */
+.photospage {
+  background-color: #2d2d2d;
+  color: white;
+}
+
 section.photoset > img {
   width: 100%;
 }
@@ -320,6 +347,7 @@ a.post-link {
 
 a.archive-link {
 	text-decoration: none;
+  color: #1b95e0;
 }
 
 a.archive-link:hover {
@@ -368,6 +396,15 @@ img.post-image {
   display: inline;
 }
 
+.footer-li > a {
+  text-decoration: none;
+  color: #1b95e0;
+}
+
+.footer-li > a:hover {
+  text-decoration: underline;
+}
+
 .yt-iframe {
   width: 100%;
   height: 506px;
@@ -375,14 +412,14 @@ img.post-image {
 
 /* Styles for just basic links */
 
-a {
+/*a {
     text-decoration: none;
     color: #1b95e0;
 }
 
 a:hover {
 	text-decoration: underline;
-}
+}*/
 
 /* Social Links Styles */
 
