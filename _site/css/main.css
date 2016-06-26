@@ -310,6 +310,13 @@ section {
     width: 38em;
     margin: 15px auto;
     line-height: 1.5;
+    color: rgba(0,0,0,.8);
+    font-size: 21px;
+}
+
+.img-desc {
+  font-size: 18px;
+  
 }
 
 .photoset {
