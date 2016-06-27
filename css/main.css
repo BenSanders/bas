@@ -501,27 +501,11 @@ a:hover {
 	}
 }
 
-@media screen and (max-width:901px) {
-  ul.navul li:not(:first-child) {display: none;}
-  ul.navul li.icon {
-    float: right;
-    display: inline-block;
+@media screen and (max-width:375px) {
+  .topnav {
+    width: 100%;
   }
-}
-
-@media screen and (max-width:901px) {
-  ul.navul.responsive {position: relative;}
-  ul.navul.responsive li.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  ul.navul.responsive li {
-    float: none;
-    display: inline;
-  }
-  ul.navul.responsive li a {
-    display: block;
-    text-align: left;
+  .logo {
+    width: 100%;
   }
 }
