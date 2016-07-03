@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="https://www.bensanders.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.bensanders.me/" rel="alternate" type="text/html" /><updated>2016-06-27T11:28:27-04:00</updated><id>https://www.bensanders.me/</id><title>Ben Sanders - Tech News/Reviews/Daily Life</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.3">Jekyll</generator><link href="https://www.bensanders.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.bensanders.me/" rel="alternate" type="text/html" /><updated>2016-07-03T10:13:55-04:00</updated><id>https://www.bensanders.me/</id><title>Ben Sanders - Tech News/Reviews/Daily Life</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title>Going Live With Git</title><link href="https://www.bensanders.me/going-live-with-git" rel="alternate" type="text/html" title="Going Live With Git" /><published>2016-06-19T00:00:00-04:00</published><updated>2016-06-19T00:00:00-04:00</updated><id>https://www.bensanders.me/going-live-with-git</id><content type="html" xml:base="https://www.bensanders.me/going-live-with-git">&lt;!-- &lt;img class=&quot;featured-image&quot; src=&quot;/images/logo-2x.png&quot;&gt; --&gt;
 &lt;header class=&quot;article-header&quot;&gt;
 	&lt;h1 class=&quot;title&quot;&gt;Going Live With Git&lt;/h1&gt;
@@ -6,13 +6,13 @@
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Going Live With Git&amp;amp;url=https://www.bensanders.me/going-live-with-git&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/going-live-with-git&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/going-live-with-git&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/going-live-with-git&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/going-live-with-git&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -58,13 +58,13 @@ Till Next Time.
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Back To Jekyll&amp;amp;url=https://www.bensanders.me/back-to-jekyll.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Back To Jekyll&amp;amp;url=https://www.bensanders.me/back-to-jekyll.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Back To Jekyll&amp;amp;url=https://www.bensanders.me/back-to-jekyll.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Back To Jekyll&amp;amp;url=https://www.bensanders.me/back-to-jekyll.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/back-to-jekyll.html&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/back-to-jekyll.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/back-to-jekyll.html&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/back-to-jekyll.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -112,13 +112,13 @@ Till Next Time.
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&amp;amp;url=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&amp;amp;url=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&amp;amp;url=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Thoughts on&amp;#58; Pokemon Sun &amp;amp; Moon New Trailer&amp;amp;url=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-pokemon-sun-and-pokemon-moon.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -154,13 +154,13 @@ Till Next Time.
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Thoughts On Dollar Photo Club Shutting Down&amp;amp;url=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Thoughts On Dollar Photo Club Shutting Down&amp;amp;url=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Thoughts On Dollar Photo Club Shutting Down&amp;amp;url=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Thoughts On Dollar Photo Club Shutting Down&amp;amp;url=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/thoughts-on-dollar-photo-club-shutting&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -191,13 +191,13 @@ Till Next Time.
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Writing Exercise&amp;amp;url=https://www.bensanders.me/writing-excercise&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Writing Exercise&amp;amp;url=https://www.bensanders.me/writing-excercise&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Writing Exercise&amp;amp;url=https://www.bensanders.me/writing-excercise&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Writing Exercise&amp;amp;url=https://www.bensanders.me/writing-excercise&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/writing-excercise&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/writing-excercise&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/writing-excercise&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/writing-excercise&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -229,13 +229,13 @@ So in the near future I plan to start posting a lot more often and perhaps start
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=On Going Development + Update&amp;amp;url=https://www.bensanders.me/on-going-development-plus-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=On Going Development + Update&amp;amp;url=https://www.bensanders.me/on-going-development-plus-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=On Going Development + Update&amp;amp;url=https://www.bensanders.me/on-going-development-plus-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=On Going Development + Update&amp;amp;url=https://www.bensanders.me/on-going-development-plus-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/on-going-development-plus-update&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/on-going-development-plus-update&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/on-going-development-plus-update&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/on-going-development-plus-update&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -263,13 +263,13 @@ So in the near future I plan to start posting a lot more often and perhaps start
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Keyframes Are Fun&amp;amp;url=https://www.bensanders.me/keyframes-are-fun&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Keyframes Are Fun&amp;amp;url=https://www.bensanders.me/keyframes-are-fun&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Keyframes Are Fun&amp;amp;url=https://www.bensanders.me/keyframes-are-fun&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Keyframes Are Fun&amp;amp;url=https://www.bensanders.me/keyframes-are-fun&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/keyframes-are-fun&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/keyframes-are-fun&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/keyframes-are-fun&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/keyframes-are-fun&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -304,13 +304,13 @@ Anyway that is just a quick update to what I&#39;ve been doing with this site la
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Dragon Con + Blog Update&amp;amp;url=https://www.bensanders.me/dragon-con-blog-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Dragon Con + Blog Update&amp;amp;url=https://www.bensanders.me/dragon-con-blog-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=Dragon Con + Blog Update&amp;amp;url=https://www.bensanders.me/dragon-con-blog-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=Dragon Con + Blog Update&amp;amp;url=https://www.bensanders.me/dragon-con-blog-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/dragon-con-blog-update&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/dragon-con-blog-update&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/dragon-con-blog-update&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/dragon-con-blog-update&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -338,13 +338,13 @@ One last final note for this post is that I PLAN to be at Dragon Con in &lt;a cl
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=At Long Last&amp;amp;url=https://www.bensanders.me/at-long-last&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=At Long Last&amp;amp;url=https://www.bensanders.me/at-long-last&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=At Long Last&amp;amp;url=https://www.bensanders.me/at-long-last&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=At Long Last&amp;amp;url=https://www.bensanders.me/at-long-last&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/at-long-last&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/at-long-last&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/at-long-last&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/at-long-last&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
@@ -370,13 +370,13 @@ Ben Sanders
 &lt;/header&gt;
 &lt;!--more--&gt;
 &lt;div class=&quot;share-page&quot;&gt;
-    &lt;a class=&quot;twitter-share&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=An Update&amp;amp;url=https://www.bensanders.me/an-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=An Update&amp;amp;url=https://www.bensanders.me/an-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter&quot;&gt;
+    &lt;a class=&quot;twitter-share tooltip&quot; onclick=&quot;window.open(&#39;https://twitter.com/intent/tweet?text=An Update&amp;amp;url=https://www.bensanders.me/an-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://twitter.com/intent/tweet?text=An Update&amp;amp;url=https://www.bensanders.me/an-update&amp;amp;via=thebensanders&amp;amp;related=thebensanders&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Twitter, Opens in a new window.&quot;&gt;
       &lt;span&gt;
       &lt;img src=&quot;https://g.twimg.com/dev/documentation/image/Twitter_logo_white_16.png&quot; /&gt;
       Twitter
     &lt;/span&gt;
     &lt;/a&gt;
-    &lt;a class=&quot;fb-share&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/an-update&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/an-update&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook&quot;&gt;
+    &lt;a class=&quot;fb-share tooltip&quot; onclick=&quot;window.open(&#39;https://facebook.com/sharer.php?u=https://www.bensanders.me/an-update&#39;,&#39;newwindow&#39;,&#39;width=640,height=640&#39;); return false&quot; href=&quot;https://facebook.com/sharer.php?u=https://www.bensanders.me/an-update&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot; title=&quot;Share on Facebook, Opens in a new window.&quot;&gt;
       &lt;span&gt;
         &lt;img src=&quot;/images/social-icons/FB-f-Logo__white_100.png&quot; style=&quot;width: 16px&quot; /&gt;
         Facebook
