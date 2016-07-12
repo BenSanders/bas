@@ -199,6 +199,12 @@ li.archive-li {
 	border-radius: 1px;
 	margin-left: 1em;
 	margin-top: 1em;
+  background: white;
+}
+
+input#signup-embedded-email {
+    border-radius: 0;
+    background: white;
 }
 
 .widget-about {
@@ -389,6 +395,10 @@ ul.posts {
 
 .post-holder > img {
 	width: 100%;
+}
+
+video.featured-video {
+  width: 100%;
 }
 
 img.featured-image {
