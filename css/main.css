@@ -24,15 +24,17 @@ div#site {
 
 header#top-bar {
   width: 100%;
-  /* background: antiquewhite; */
+  /*background: antiquewhite;*/ 
   overflow: hidden;
-  /*border-bottom: 1px solid*/;
+  border-bottom: 1px solid #ccc;
   z-index: 9999;
 }
 
 .top-bar-inner {
-  max-width: 901px;
+  /*max-width: 901px;*/
   margin: 0 auto;
+  padding-left: 1em;
+  padding-right: 1em;
 
 }
 
@@ -106,6 +108,19 @@ li.navlinks > a {
 li.navlinks > a:hover {
   text-decoration: none;
   /*background-color: #eee;*/
+}
+
+a.bs-home {
+    color: black;
+    text-decoration: none;
+}
+
+a.bs-home:hover {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #FF9800), color-stop(0.15, #000), color-stop(0.3, #FF9800), color-stop(0.45, #000), color-stop(0.6, #FF9800),color-stop(0.75, #000), color-stop(0.9, #FF9800), color-stop(1, #000) );
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #FF9800), color-stop(0.15, #000), color-stop(0.3, #FF9800), color-stop(0.45, #000), color-stop(0.6, #FF9800),color-stop(0.75, #000), color-stop(0.9, #FF9800), color-stop(1, #000) );
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
 }
 
 /* Styles for animated underlines for links */
@@ -494,6 +509,16 @@ a:hover {
   color: white;
   text-decoration: none;
   /*border: 0.5px solid black;*/
+}
+
+/* Styles for Selection color */
+
+::-moz-selection { /* Code for Firefox */
+    background: rgb(151,195,235);
+}
+
+::selection {
+    background: rgb(151,195,235);
 }
 
 /* CSS styles for screens below 900px */
