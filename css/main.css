@@ -9,10 +9,13 @@ html, body {
 
 /* Main Site Styles */
 div#site {
-    width: 100%;
-    max-width: 901px;
-    margin: 0 auto;
-    /*height: 254%;*/
+  background: #eee;
+}
+
+.site-inner {
+  width: 100%;
+  max-width: 901px;
+  margin: 0 auto;
 }
 
 .post-year {
@@ -264,7 +267,7 @@ li.archive-li {
 }
 
 .post-excerpt:hover {
-	background: #eee;
+	background: #fff;
 }
 
 h2.post-h2 {
@@ -298,6 +301,8 @@ article.post {
     max-width: 901px;
     padding-top: 1em;
     margin: 0 auto;
+    margin-top: 1em;
+    background: white;
 }
 
 header.article-header {

@@ -4,15 +4,17 @@
 		<body>
 			{% include header.html %}
 				<div id="site" class="site">
-					<div class="wrapper">
-						<div class="col-left-60">
-							{{ content }}
-						</div>
-						<div class="col-right-40">
-							<div class="widget-signup">
-								{% include mailchimp-signup-form.html %}
+					<div class="site-inner">
+						<div class="wrapper">
+							<div class="col-left-60">
+								{{ content }}
 							</div>
+							<div class="col-right-40">
+								<div class="widget-signup">
+									{% include mailchimp-signup-form.html %}
+								</div>
 
+							</div>
 						</div>
 					</div>
 				</div><!-- Last <div> for site class -->
