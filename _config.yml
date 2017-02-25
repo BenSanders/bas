@@ -21,8 +21,8 @@ permalink: /:title.html
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-feed
+# gems:
+#   - jekyll-feed
 
 exclude: 
   - sftp-config.json
